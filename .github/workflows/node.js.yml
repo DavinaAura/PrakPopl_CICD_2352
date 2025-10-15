@@ -60,4 +60,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: davinaaura/PrakPopl_CICD_2352-nodejs:latest
+          tags: davinaaura/prakpopl-nodejs:latest
