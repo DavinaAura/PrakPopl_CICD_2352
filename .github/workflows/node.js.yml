@@ -60,4 +60,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hidayatnurr/praktikum-popl-nodejs:latest
+          tags: davinaaura/PrakPopl_CICD_2352-nodejs:latest
